@@ -2,4 +2,4 @@
 - ubuntu-kde 
 - for codespaces and for every vps.
 - code to start is (docker compose up -d)
-
+- ON PORT 4100 and the other one on 4101 for the vpn viewer on 4001.
