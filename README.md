@@ -3,6 +3,5 @@
 - for codespaces and for every vps.
 bash '''
 
-  docker compose up -d
+docker compose up -d
 
-'''
